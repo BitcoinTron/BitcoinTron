@@ -1,8 +1,8 @@
 # CrystalTokens
-CrystalTokens is a tokenized version of Bitcoin on the Ethereum blockchain
+CRYSTAL (CrystalTokens) is an Ethereum-based Token that focuses on being a faster and cheaper currency than Bitcoin.
 
 ## What is CrystalTokens
-CrystalTokens is a tokenized version of Bitcoin on the Ethereum blockchain
+CRYSTAL (CrystalTokens) is an Ethereum-based Token that focuses on being a faster and cheaper currency than Bitcoin.
 
 ## Specifications of CrystalTokens
 * **Name**: CrystalTokens
