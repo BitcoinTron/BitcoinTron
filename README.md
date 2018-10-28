@@ -1,16 +1,16 @@
-# CrystalTokens
-CRYSTAL (CrystalTokens) is an Ethereum-based Token that focuses on being a faster and cheaper currency than Bitcoin.
+# Bitcoin Tron
+Bitcoin Tron is a platform that empowers and enhances the payment systems.
 
-## What is CrystalTokens
-CRYSTAL (CrystalTokens) is an Ethereum-based Token that focuses on being a faster and cheaper currency than Bitcoin.
+## What is Bitcoin Tron
+Bitcoin Tron is a platform that empowers and enhances the payment systems.
 
-## Specifications of CrystalTokens
-* **Name**: CrystalTokens
-* **Symbol**: CRYSTAL
+## Specifications of Bitcoin Tron
+* **Name**: Bitcoin Tron
+* **Symbol**: TRON
 * **Decimals**: 18
 * **Standard**: ERC20 
 * **Platform**: Ethereum
 * **Distribution**: Free Airdrop
-* **Contract Address**: 0xfaf387ae15f51130a774719e3d4df3b55281ce97
+* **Contract Address**: 0x9693dded163393f18810c7a799c662998bf8bf3e
 ## Resource
-**[Website](https://crystaltokens.net)** | **[Whitepaper](https://crystaltokens.net/whitepaper.pdf)** | **[Twitter](https://twitter.com/crystal_tokens)**  | **[Bitcointalk](https://bitcointalk.org/index.php?topic=4963680.0)** | **[Slack](https://crystaltokens.slack.com)** | **[Telegram](https://t.me/crystaltokens)**
+**[Website](https://bitcointron.org)** | **[Whitepaper](https://bitcointron.org/whitepaper.pdf)** | **[Twitter](https://twitter.com/BitcoinTron)**  | **[Bitcointalk](https://bitcointalk.org)** | **[Slack](https://bitcointron.slack.com)** | **[Telegram](https://t.me/joinchat/HFuYDk_0lbQyE3y1x8QcOA)**
